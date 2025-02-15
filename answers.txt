@@ -6,7 +6,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: calculating who would win in a fight: 1 trillion lions or the sun?
 
-
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: rebasing overwrites a branch's history while merging preserves the history of both branches
+
+Q4: What are you looking forward to this semester?
+
+Answer: Sneaking olives and mayonaise into everyone's pockets in case they get hungry later. We shall survive this winter inshallah.
+
