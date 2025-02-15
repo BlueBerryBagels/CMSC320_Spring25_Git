@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: calculating who would win in a fight: 1 trillion lions or the sun?
